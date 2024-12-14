@@ -1,0 +1,109 @@
+/* ------  CSS Coding  ------*/
+#header{
+ width: 100%;
+ height: 20vh;
+ background-color: lime;
+}
+.headertable{
+ width: 100%;
+ text-align: center; 
+}
+.td1{
+ height: 20px;
+ width: 20px;
+ margin-bottom: 10px;
+ vertical-align: top;
+}
+.td2{
+ text-align: center;
+ font-size:32px;
+ font-family: algerian;
+ vertical-align:;
+}
+
+*{
+  margin: 0px;
+  padding: 0px ;
+}
+nav {
+  background-color: lightslategrey;
+  padding:0px;
+  margin: 0px;
+  height: 70px;
+  width: 100%;
+  }
+  
+  nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  }
+  
+  nav li {
+  margin-left:220px;
+  }
+  
+  nav a {
+  color: #fff;
+  text-decoration: none;
+  
+  }
+  nav a:hover {
+  color: #ccc;
+  }
+  .search{
+    background-color:lightgreen;
+    border-radius: 50%;
+    margin: 0px;
+    height: 90px;
+  }
+
+.img{
+  padding: 20px;
+}
+.im{
+  margin-left: 10px;
+  height: 80px;
+  border-radius: 50%;
+  position :fixed;
+}
+.search{
+  background-color:lightgreen;
+  border-radius: 300%;
+  margin: 0px;
+  height: 30px;
+  width: 30px;
+}
+.button{
+  border-radius: 10%;
+ margin-top: 20px;
+  height: 20px;
+  width: 90px;
+}
+#footer{
+  margin: 20px;
+  padding: 20px;
+ width: 100%;
+ height: 40vh;
+ color: white; background-color: black; }
+.footer1{width: 100%; height: 35vh; }
+.footer2{width: 100%; height: 7vh; background-color: black;}
+.instagram{width: 30px; height: 30px; background: #9b1919; border-radius: 50%; color: white; text-align: center;
+ line-height: 30px; margin-left: 20px; display: inline-block;}
+.twitter{ width: 30px; height: 30px; background: WHITE; border-radius: 50%; color: white; text-align: 
+center; line-height: 30px; margin-left: 20px; display: inline-block;}
+.facebook{width: 30px; height: 30px; background: rgb(21, 21, 114); border-radius: 50%; color: white; text-align:
+center; line-height: 30px; margin-left: 20px; display: inline-block;}
+.whatsapp{ width: 30px; height: 30px; background: rgb(18, 78, 18); border-radius: 50%; color: white; text-align: center; line-height: 30px; margin-left: 20px; display: inline-block;}
+.fmultimedia{ height: auto; width: auto; display: inline; position: absolute; left: 160vh; }
+.footer2a{ height: inherit; width: auto; display: inline; position: absolute; left: 60vh;}
+.footer2b{ height: inherit; width: auto; display: inline; position: absolute; left: 20vh;}
+.f1{ height: 30vh; width: 22%; display: inline-block; position: absolute; top: 245vh;}
+.b{ left: 40vh;}
+.c{ left: 95vh;}
+.d{ left: 150vh;}
+.d1{ margin: 10px;}
+.b1{ margin: 10px;}
+.c1{ margin: 10px;}
+img{ height: 140px; line-height: 0px; margin: 0px;}

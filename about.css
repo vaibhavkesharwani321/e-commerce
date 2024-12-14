@@ -1,0 +1,26 @@
+nav {
+background-color: lightslategrey;
+padding:2px;
+}
+
+nav ul {
+list-style: none;
+margin: 0;
+padding: 0;
+display: flex;
+}
+
+nav li {
+margin-left:220px;
+}
+
+nav a {
+color: #fff;
+text-decoration: none;
+
+}
+
+nav a:hover {
+color: #ccc;
+
+}
